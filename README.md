@@ -16,7 +16,7 @@
 >- Angela Yu's Web development course
 >	- [Playlist](https://vk.com/video/playlist/-221359275_147)
 >- Main project documentation 
->	- [GitHub page](https://github.com/ArjunMohan008/SC-555-Software-Project-Work)
+>	- [GitHub page]([GitHub page](https://github.com/ArjunMohan008/SC-555-Software-Project-Work)
 >- Client 
 > 	`Lanka Education and Research Network` 
 > 	[Website](https://www.ac.lk/)
