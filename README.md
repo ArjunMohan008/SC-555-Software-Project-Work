@@ -40,7 +40,7 @@
 
 ## Project progress 
 
-### Tangible project modules
+### Tentative project modules
 - Dashboard with visualization and analytics 
  - Realtime networking management 
  - Research Analysis 
