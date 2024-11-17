@@ -35,9 +35,8 @@
 - Formulated the initial problem statement and listed core and supporting modules.
 - Finalized the overall development stack as MERN.
     - Decided to use Angela Yu's web development bootcamp as the main learning resource and guide for best practices for the team.
+
 ### 06-11-2024 - Wednesday
- 
 - Group formed and members introduction 
-- Identified the learning resources for web development Full stack development
-	- https://vk.com/video/playlist/-221359275_147
+
  
