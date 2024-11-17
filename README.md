@@ -24,31 +24,22 @@
 
 ## TIme Log with Details 
 
-### 09-11-2024 - 11 am to 1 pm - Saturday @PGIS auditorium - SC555 Class 
-> - First physical meetup with the team.
-> - Client's current manual process was explained by Aparna to the team members .
-> - Formated the initial problem statement and list out core and helping modules.
-> - Finalized the overall development stack as MERN.
-> 	- Decided to use Angela Yu's web development bootcamp as a main learning resource and guide for best practices for the team.
+# TIme Log with Details 
 
+## 09-13-2024 - 7.30 pm to 8 pm - Wednesday
+- Discussed requirements gathering findings with Aparna.
+- Created a shareable Google Drive folder to store project-related resources.
+- Initiated the writing of the project charter document as instructed by ma'am.
+- Discussed the next steps for the project.
+
+### 09-11-2024 - 11 am to 1 pm - Saturday @PGIS auditorium - SC555 Class 
+- Aparna explained the client's current manual process to the team members.
+- Formulated the initial problem statement and listed core and supporting modules.
+- Finalized the overall development stack as MERN.
+    - Decided to use Angela Yu's web development bootcamp as the main learning resource and guide for best practices for the team.
 ### 06-11-2024 - Wednesday
  
-> - Group formed and members introduction 
-> - Identified the learning resources for web development
-> 	- Full stack development
-> 		- https://vk.com/video/playlist/-221359275_147
-
-## Project progress 
-
-### Tentative project modules
-- Dashboard with visualization and analytics 
- - Realtime networking management 
- - Research Analysis 
- - HR 
-- Finance
-
-(09-11-2024)
-
-## Initial project idea
- "The project requiremnt of the company is to streamline data, like creating data pipeline, client request that kind a system . hope this will cover database , automations , data fetching , programming ,data science including analytics as well....etc."
+- Group formed and members introduction 
+- Identified the learning resources for web development Full stack development
+	- https://vk.com/video/playlist/-221359275_147
  
