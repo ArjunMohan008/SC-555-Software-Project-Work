@@ -22,8 +22,6 @@
 > 	[Website](https://www.ac.lk/)
 
 
-## TIme Log with Details 
-
 # TIme Log with Details 
 
 ## 09-13-2024 - 7.30 pm to 8 pm - Wednesday
